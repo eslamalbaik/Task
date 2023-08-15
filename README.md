@@ -15,7 +15,7 @@ ReachSci training offers web developers the opportunity to acquire essential res
 - These techniques must be used on the Task [ HTML, CSS ]
 - View the best layout for each page based on the size of their device's screen.
 - For all interactive elements on the site, see hover states.
-- Make sure your name is in the design .
+- Make sure your name is in the design.
 
 
 ## The Screen Task 
@@ -26,5 +26,5 @@ ReachSci training offers web developers the opportunity to acquire essential res
 
 ##  Delivery
 
-- eslam.elbeak@hotmail.com
+- lobnaabuasaker@gmail.com
 
